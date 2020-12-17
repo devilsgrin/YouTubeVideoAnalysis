@@ -9,7 +9,7 @@ Bu Toolu kullanabilmeniz için `YouTube Data Apı`ye sahip olmanız gerekir. API
 [YouTube](https://developers.google.com/youtube/v3)
 
 ## Kurulum
-``` go get -u https://github.com/devilsgrin/YouTubeVideoAnalysis ```
+``` go get -u github.com/devilsgrin/YouTubeVideoAnalysis ```
 
 ## Kullanım
 
