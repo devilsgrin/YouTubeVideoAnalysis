@@ -13,6 +13,6 @@ Bu Toolu kullanabilmeniz için `YouTube Data Apı`ye sahip olmanız gerekir. API
 
 ## Kullanım
 
-> go run main.go --api={YOUR-API_KEY} --url={VIDEO_URL}
+``` go run main.go --api={YOUR-API_KEY} --url={VIDEO_URL} ```
 
 
