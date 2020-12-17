@@ -34,8 +34,6 @@ var (
 )
 
 func main() {
-	// red := color.New(color.FgRed).SprintFunc() // kırmızı rengini istediğimiz yerde kullanabilmek için(noncolor string)
-
 	urlFlag := flag.String("url", "", "Youtube video istatistiğini almak için kullandığımız flag")
 	apiFlag := flag.String("api", "", "Bütün işlemleri yaparken kullanacğımız API Keyi")
 	// Flaglarimizi parse etmek için bunu kullanmak zorundayız
